@@ -1,20 +1,18 @@
 
-# Frontend Developer Roadmap In 2020
+> Frontend Developer Roadmap In 2020
 
-* Become a modern front-end developer
-* Become a nodejs full stack developer
 
-## 🎯Modern Front-End Developer
+## 🔥 Modern Front-End Developer
 
 ![Front-End Developer Roadmap](./images/frontend.png)
 
 
-## 🎯Nodejs Full Stack Developer
+## 🔥 Nodejs Full Stack Developer
 
 ![Full Stack Developer Roadmap](./images/fullstack.png)
 
 
-## 🌟Contribution
+## 🤝 Contribution
 
 > If you think that these can be improved in anyway, please do suggest.
 
@@ -22,7 +20,7 @@
 * Discuss ideas in issues
 
 
- ## License
+ ## 📑 License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a>
 
