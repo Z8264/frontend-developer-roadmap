@@ -1,5 +1,21 @@
 
-# Frontend Developer Roadmap
+# Frontend Developer Roadmap In 2019
 
-![Frontend Developer Roadmap](./images/roadmap.png)
+
+## Modern Front-End Developer
+
+![Front-End Developer Roadmap](./images/frontend.png)
+
+
+## Nodejs Full Stack Developer
+
+![Full Stack Developer Roadmap](./images/frontend.png)
+
+
+## Contribution
+
+* Open pull request with improvements
+* Discuss ideas in issues
+
+
 
