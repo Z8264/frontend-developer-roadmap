@@ -1,17 +1,22 @@
 
-# Frontend Developer Roadmap In 2020
+# Front-End Developer Roadmap In 2020
 
 > As a front-end development engineer, I try to share my growing experience.
 I will keep an eye on the development of new technologies and keep abreast of them.
-If you think that these can be improved in anyway, please do suggest.
 
+* Modern Front-End
+* More Skills
+* Nodejs Full Stack
 
-## 🔥 Modern Front-End Developer
+## 🔥 Modern Front-End
 
 ![Front-End Developer Roadmap](./images/frontend.svg)
 
+## 🔥 More Skills
 
-## 🔥 Nodejs Full Stack Developer
+![Full Stack Developer Roadmap](./images/moreskills.svg)
+
+## 🔥 Nodejs Full Stack
 
 ![Full Stack Developer Roadmap](./images/fullstack.svg)
 
