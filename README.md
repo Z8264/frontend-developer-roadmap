@@ -4,12 +4,12 @@
 
 ## 🔥 Modern Front-End Developer
 
-![Front-End Developer Roadmap](./images/frontend.png)
+![Front-End Developer Roadmap](./images/frontend.svg)
 
 
 ## 🔥 Nodejs Full Stack Developer
 
-![Full Stack Developer Roadmap](./images/fullstack.png)
+![Full Stack Developer Roadmap](./images/fullstack.svg)
 
 
 ## 🤝 Contribution
