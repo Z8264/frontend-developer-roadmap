@@ -14,7 +14,7 @@ I will keep an eye on the development of new technologies and keep abreast of th
 
 ## 🔥 More Skills
 
-![Full Stack Developer Roadmap](./images/moreskills.svg)
+![Full Stack Developer Roadmap](./images/moreskill.svg)
 
 ## 🔥 Nodejs Full Stack
 
