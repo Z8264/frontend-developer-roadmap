@@ -28,6 +28,9 @@ I will keep an eye on the development of new technologies and keep abreast of th
 * Open pull request with improvements
 * Discuss ideas in issues
 
+## ⭐️ Support
+
+> Please star the repository to show your support!!
 
  ## ⚠ License
 
