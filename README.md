@@ -10,15 +10,15 @@ I will keep an eye on the development of new technologies and keep abreast of th
 
 ## 🔥 Modern Front-End
 
-![Front-End Developer Roadmap](./images/frontend.svg)
+![Front-End Developer Roadmap](./images/frontend-1.svg)
 
 ## 🔥 More Skills
 
-![Full Stack Developer Roadmap](./images/moreskill.svg)
+![Full Stack Developer Roadmap](./images/moreskill-2.svg)
 
 ## 🔥 Nodejs Full Stack
 
-![Full Stack Developer Roadmap](./images/fullstack.svg)
+![Full Stack Developer Roadmap](./images/fullstack-1.svg)
 
 
 ## 🤝 Contribution
