@@ -10,7 +10,7 @@ I will keep an eye on the development of new technologies and keep abreast of th
 
 ## 🔥 Modern Front-End
 
-![Front-End Developer Roadmap](./images/frontend-1.svg)
+![Front-End Developer Roadmap](./images/frontend-2.svg)
 
 ## 🔥 More Skills
 
