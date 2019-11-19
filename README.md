@@ -1,35 +1,40 @@
 
 # Front-End Developer Roadmap In 2020
 
-> As a front-end development engineer, I try to share my growing experience.
-I will keep an eye on the development of new technologies and keep abreast of them.
+> As a front-end development engineer, I try to share my growing experience. I'll make more pictures of the front-end, so you might want to watch 🔭 this repository!
 
-* Modern Front-End
-* More Skills
-* Nodejs Full Stack
+* 🔥 Modern Front-End Developer Roadmap
+* 🔥 Front-End Developer With More Skills
+* 🔥 Nodejs Full Stack Developer Roadmap
+* （ To Be Continue)
 
-## 🔥 Modern Front-End
+## 🔥 Modern Front-End Developer Roadmap
 
-![Front-End Developer Roadmap](./images/frontend-2.svg)
+![Modern Front-End Developer Roadmap](./images/frontend-2.svg)
 
-## 🔥 More Skills
+## 🔥 Front-End Developer With More Skills
 
-![Full Stack Developer Roadmap](./images/moreskill-2.svg)
+![More Skills](./images/moreskill-2.svg)
 
-## 🔥 Nodejs Full Stack
+## 🔥 Nodejs Full Stack Developer Roadmap
 
-![Full Stack Developer Roadmap](./images/fullstack-1.svg)
+![Nodejs Full Stack Developer Roadmap](./images/fullstack-1.svg)
 
 
-## 🤝 Contribution
+## Contribution
 
-> If you think that these can be improved in anyway, please do suggest.
+If you think that these can be improved in anyway, please do suggest.
 
 * Open pull request with improvements
 * Discuss ideas in issues
 
+## Support
 
- ## ⚠ License
+> Please star ⭐️ the repository to show your support!
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a>
+> Please watch 🔭 this repository to learn more about front-end!
+
+ ## License
+
+[![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
 
