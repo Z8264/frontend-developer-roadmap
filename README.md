@@ -10,15 +10,15 @@
 
 ## 🔥 Modern Front-End Developer Roadmap
 
-![Modern Front-End Developer Roadmap](./images/frontend-2.svg)
+![Modern Front-End Developer Roadmap](./images/frontend-1.2.svg)
 
 ## 🔥 Front-End Developer With More Skills
 
-![More Skills](./images/moreskill-2.svg)
+![More Skills](./images/moreskill-1.1.svg)
 
 ## 🔥 Nodejs Full Stack Developer Roadmap
 
-![Nodejs Full Stack Developer Roadmap](./images/fullstack-1.svg)
+![Nodejs Full Stack Developer Roadmap](./images/fullstack-1.1.svg)
 
 
 ## Contribution
