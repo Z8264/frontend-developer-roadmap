@@ -1,20 +1,20 @@
 
 # Front-End Developer Roadmap In 2020
 
-> As a front-end development engineer, I try to share my growing experience. I'll make more pictures of the front-end, so you might want to watch 🔭 this repository!
+> This repository aims to collect the most important concepts of front-end. In order to do that, I will continue to improve this repository, so you might want to watch 🔭 this repository!
 
 * 🔥 Modern Front-End Developer Roadmap
 * 🔥 Front-End Developer With More Skills
 * 🔥 Nodejs Full Stack Developer Roadmap
-* （ To Be Continue)
+* (To Be Continue)
 
 ## 🔥 Modern Front-End Developer Roadmap
 
-![Modern Front-End Developer Roadmap](./images/frontend-1.2.svg)
+![Modern Front-End Developer Roadmap](./images/frontend-1.3.svg)
 
 ## 🔥 Front-End Developer With More Skills
 
-![More Skills](./images/moreskill-1.1.svg)
+![More Skills](./images/moreskill-1.2.svg)
 
 ## 🔥 Nodejs Full Stack Developer Roadmap
 
@@ -32,7 +32,7 @@ If you think that these can be improved in anyway, please do suggest.
 
 > Please star ⭐️ the repository to show your support!
 
-> Please watch 🔭 this repository to learn more about front-end!
+> Share it on Twitter or other places!
 
  ## License
 
