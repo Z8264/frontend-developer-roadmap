@@ -3,8 +3,26 @@
 
 > This repository aims to collect the most important concepts of front-end. In order to do that, I will continue to improve this repository, so you might want to watch 🔭 this repository!
 
+### Front-End Developer Roadmap
 
-![Front-End Developer Roadmap](./images/2021-fe.svg)
+![Front-End Developer Roadmap](./images/2021-frontend.svg)
+
+### High Quality Coding Guide
+
+![CodingGuide](./images/CodingGuide.svg)
+
+* Design 
+* Naming 
+* Comments  
+* Style 
+* Tests 
+* Documentation 
+
+Recommended Books
+
+* 《Clean Code: A Handbook of Agile Software Craftsmanship》
+* 《A Philosophy of Software Design》
+* 《Refactoring: Improving the Design of Existing Code (2nd Edition)》
 
 ## Contribution
 
