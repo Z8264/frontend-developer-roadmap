@@ -7,6 +7,12 @@
 
 ![Front-End Developer Roadmap](./images/2021-frontend.svg)
 
+
+Recommended Books
+
+* 《Professional JavaScript for Web Developers 4th Edition》
+* 《YOU DON`T KNOW JS》
+  
 ### High Quality Coding Guide
 
 ![CodingGuide](./images/CodingGuide.svg)
@@ -23,6 +29,15 @@ Recommended Books
 * 《Clean Code: A Handbook of Agile Software Craftsmanship》
 * 《A Philosophy of Software Design》
 * 《Refactoring: Improving the Design of Existing Code (2nd Edition)》
+
+### Data Structures & Algorithms Guide
+
+![Data Structures & Algorithms](./images/algorithms.svg)
+
+Recommended Books
+
+* 《Introduction to Algorithms, 3rd Edition》
+* 《Algorithms (4th Edition)》
 
 ## Contribution
 
