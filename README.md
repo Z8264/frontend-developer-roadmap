@@ -3,6 +3,10 @@
 
 > This repository aims to collect the most important concepts of front-end. In order to do that, I will continue to improve this repository, so you might want to watch 🔭 this repository!
 
+* Front-End Developer Roadmap
+* High Quality Coding Guide
+* Data Structures & Algorithms Guide
+  
 ### Front-End Developer Roadmap
 
 ![Front-End Developer Roadmap](./images/2021-frontend.svg)
