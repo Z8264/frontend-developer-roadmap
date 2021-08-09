@@ -9,7 +9,7 @@
   
 ### Front-End Developer Roadmap
 
-![Front-End Developer Roadmap](./images/2021-frontend.svg)
+![Front-End Developer Roadmap](./images/2021-FE.svg)
 
 
 Recommended Books
@@ -19,7 +19,7 @@ Recommended Books
   
 ### High Quality Coding Guide
 
-![CodingGuide](./images/CodingGuide.svg)
+![CodingGuide](./images/coding.svg)
 
 * Design 
 * Naming 
